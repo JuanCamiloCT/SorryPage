@@ -1,0 +1,40 @@
+.jumbotron{
+  height: 15em;
+  margin: 20px;
+  border-radius: 5px;
+}
+.Inside{
+  padding:8px 8px 20px 8px;
+}
+#InitImg{
+  width: 10%;
+  align-items:flex-start;
+}
+.photo{
+  width: 60%;
+  border-radius: 20px;
+  display:block;
+  margin:auto;
+}
+.photoVoz{
+  width: 60%;
+  border-radius: 20px;
+  border: 1px  blue;
+}
+.vs{
+  width: 70%;
+}
+.img-circle{
+  width: 70%;
+}
+hr {
+  border: 1px solid #4bceb4;
+  border-radius: 100px /8px;
+  height: 0px;
+  margin: 15px;
+  text-align: center;
+}
+.Loren{
+  width: 80%;
+  margin: 5px
+}
